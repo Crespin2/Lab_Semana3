@@ -1,6 +1,5 @@
 
 package Demostracion;
-//Extends
 //extends para aplicar herenciaa a la clase
 public class Estudiante extends Notas{
     
